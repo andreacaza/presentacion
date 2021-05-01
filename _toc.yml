@@ -3,7 +3,9 @@
 #
 - file: intro
 - file: content
-- file: pag1
   sections:
+    - file: pag1  
+    - file: pag2
+    - file: pag3
     - file: markdown
     - file: notebooks

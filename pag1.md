@@ -1,4 +1,5 @@
-## mi pagina 1##
+## **Mi pagina 1**
 
-#.hola profe.#
-pagina estatica creada
+#Buen dia docente
+
+Esta es la primera pagina creada para la actividad 1.
