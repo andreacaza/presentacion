@@ -1,4 +1,4 @@
-## **Mi pagina 2**
+## **Mi página 2**
 
 #Buen dia docente
 

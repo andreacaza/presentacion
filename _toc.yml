@@ -2,10 +2,10 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
 - file: intro
+- file: pag1  
+- file: pag2
+- file: pag3
 - file: content
   sections:
-    - file: pag1  
-    - file: pag2
-    - file: pag3
     - file: markdown
     - file: notebooks
